@@ -52,4 +52,4 @@ jobs:
           app-name: 'multiservices-back'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_05407FD155AC4454BA10E3D16DF039D2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6A33EA2BCFB2450394A5891A8AD962F7 }}
